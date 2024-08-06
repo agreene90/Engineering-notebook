@@ -4,4 +4,6 @@
 ___
 ![img2](https://github.com/agreene90/Engineering-notebook/blob/main/IMG_1448.png)
 ___
-![img3](
+![img3](https://github.com/agreene90/Engineering-notebook/blob/main/IMG_1445.png)
+___
+![img4](
